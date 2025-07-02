@@ -1,7 +1,7 @@
 :root {
---primary: #ff3a3a;       
---secondary: #cc0000;     
---accent: #ff0066;        
+--primary: #b6052c;       
+--secondary: #b6052c;     
+--accent: #b6052c;        
 --bg-dark: #120808;      
 --bg-darker: #0a0404;     
 --text: #f0e0e0;          
@@ -11,7 +11,7 @@
 --highlight: rgba(255, 58, 58, 0.3);  
 --success: #00aa55;       
 --warning: #ff9900;       
---danger: #ff2222;        
+--danger: #b6052c;        
 }
 
 * {
